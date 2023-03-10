@@ -1,0 +1,33 @@
+h1{
+    font-size: 40px;
+    color: brown;
+}
+
+p{
+    font-size: larger;
+}
+
+h2{
+    font-size: 30px;
+}
+address{
+    font-size: 25px;
+    color: brown;
+}
+header {
+    list-style-position: inside;
+  }
+
+header, h1{
+    background-color: #9DC08B;
+}
+nav{
+    background-color: #9DC08B;
+    color: black
+}
+article, body{
+    background-color: #609966;
+}
+footer{
+    background-color: #40513B;
+}
